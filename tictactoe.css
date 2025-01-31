@@ -18,6 +18,9 @@ div {
 
 .gameover {
   color: black;
+  margin-left: 200px;
+  margin-bottom: 100px;
+  margin-top: 50px;
 }
 
 div:hover {
